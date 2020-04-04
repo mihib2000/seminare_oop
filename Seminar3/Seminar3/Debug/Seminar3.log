@@ -1,0 +1,11 @@
+﻿  Auto.cpp
+  Kund.cpp
+  LKW.cpp
+  PKW.cpp
+  Rental.cpp
+c:\users\mihai\documents\facultate\oop\seminar\seminar3\seminar3\rental.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar3\seminar3\rental.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar3\seminar3\rental.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Seminar3.cpp
+  Generating Code...
+  Seminar3.vcxproj -> C:\Users\Mihai\Documents\Facultate\OOP\Seminar\Seminar3\Debug\Seminar3.exe
