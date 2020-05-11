@@ -1,0 +1,31 @@
+﻿  Auto.cpp
+  AutoController.cpp
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(52): warning C4018: '>': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(74): warning C4018: '>': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(87): warning C4018: '<': signed/unsigned mismatch
+  Kund.cpp
+  LKW.cpp
+  PKW.cpp
+  Rental.cpp
+  Reservierung.cpp
+  Seminar3.cpp
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(52): warning C4018: '>': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(74): warning C4018: '>': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\teste.h(5): warning C4018: '<': signed/unsigned mismatch
+  UI.cpp
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(52): warning C4018: '>': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(74): warning C4018: '>': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\crudrepository.h(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihai\documents\facultate\oop\seminar\seminar5\seminar3\ui.cpp(3): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Seminar3.vcxproj -> C:\Users\Mihai\Documents\Facultate\OOP\Seminar\Seminar5\Debug\Seminar3.exe
